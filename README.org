@@ -1,0 +1,11 @@
+* osh-autodoc-base
+
+Given a Scribble specification for an Open Source Hardware assembly
+manual, provide an abstract syntax to be further processed by a PDF or
+HTML generator.
+
+|---------+-----------------------------------------------------------|
+| source  | git:https://codeberg.org/osh-autodoc/osh-autodoc-base.git |
+| commit  | 63c3230950                                                |
+| systems | osh-autodoc-base                                          |
+|---------+-----------------------------------------------------------|
